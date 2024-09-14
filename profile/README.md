@@ -1,6 +1,6 @@
-![infra](../assets/synkube-infra.drawio.svg)
+# Synkube Platform for Full-Stack Development
 
-# Synkube Infrastructure and Applications Documentation
+![infra](../assets/synkube-infra.drawio.svg)
 
 ## Overview
 
@@ -10,7 +10,7 @@ Synkube is a comprehensive full-stack platform that integrates infrastructure, D
 
 ## Table of Contents
 
-- [Synkube Infrastructure and Applications Documentation](#synkube-infrastructure-and-applications-documentation)
+- [Synkube Platform for Full-Stack Development](#synkube-platform-for-full-stack-development)
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
   - [GitHub](#github)
