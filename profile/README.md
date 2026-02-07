@@ -12,6 +12,7 @@ Synkube is an infrastructure and DevOps automation company focused on cloud-nati
 
 | Chart | Description |
 |-------|-------------|
+| **[app-full](https://artifacthub.io/packages/helm/synkube/app-full)** | Complete application chart bundling workloads, namespace resources, and cluster resources. |
 | **[app-starter](https://artifacthub.io/packages/helm/synkube/app-starter)** | Universal chart for 99% of K8s workloads (Deployments, StatefulSets, Jobs, CronJobs) |
 | **[app-extensions](https://artifacthub.io/packages/helm/synkube/app-extensions)** | Namespace-scoped resources (Secrets, ConfigMaps, RBAC, NetworkPolicies) |
 | **[platform-extensions](https://artifacthub.io/packages/helm/synkube/platform-extensions)** | Cluster-scoped resources (ClusterRoles, ClusterSecretStores, Certificates) |
