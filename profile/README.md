@@ -4,13 +4,10 @@
 
 Synkube is an infrastructure and DevOps automation company focused on cloud-native solutions. We build production-tested applications, platform starter kits, and deployment pipelines.
 
----
+[![SynKube platform — Terraform, GitOps, CI, and runtime security](../assets/github-profile-platform.png)](https://synkube.com)
 
-## Agent platform
-
-[![SynKube agent platform](../assets/github-profile-agents.png)](https://synkube.com/agents)
-
-**[synkube.com/agents](https://synkube.com/agents)** — Hermes agents with context, skills, bootstrap, and memory. Ephemeral GitHub and cloud IAM access for delivery automation.
+**[synkube.com](https://synkube.com)** — Multi-cloud Kubernetes with Terraform, GitOps, shift-left CI, and runtime security.  
+**[synkube.com/agents](https://synkube.com/agents)** — Hermes agents for delivery automation (context, skills, ephemeral GitHub and cloud access).
 
 ---
 
@@ -37,10 +34,6 @@ Reusable GitHub Actions and workflows: GitOps deploy, Docker build/push to GHCR,
 ---
 
 ## Platform (private repos)
-
-[![SynKube platform](../assets/github-profile-platform.png)](https://synkube.com)
-
-**[synkube.com](https://synkube.com)** — Multi-cloud Kubernetes with Terraform, GitOps, shift-left CI, and runtime security.
 
 ### Synkube Lite (DigitalOcean)
 
