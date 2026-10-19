@@ -6,7 +6,7 @@ Synkube is an infrastructure and DevOps automation company focused on cloud-nati
 
 [![SynKube platform — Terraform, GitOps, CI, and runtime security](../assets/github-profile-platform.png)](https://synkube.com)
 
-**[synkube.com](https://synkube.com)** — Multi-cloud Kubernetes with Terraform, GitOps, shift-left CI, and runtime security.  
+**[synkube.com](https://synkube.com)** — Multi-cloud Kubernetes with Terraform, GitOps, shift-left CI, and runtime security.
 **[synkube.com/agents](https://synkube.com/agents)** — Hermes agents for delivery automation (context, skills, ephemeral GitHub and cloud access).
 
 ---
@@ -35,14 +35,14 @@ Reusable GitHub Actions and workflows: GitOps deploy, Docker build/push to GHCR,
 
 ## Platform (private repos)
 
-### Synkube Lite (DigitalOcean)
+### Synkube Lite
 
-Complete GitOps platform on DigitalOcean Kubernetes (DOKS) with ArgoCD.
+GitOps platform on Kubernetes with Argo CD.
 
 | Repository | Purpose |
 | --- | --- |
-| [lite-do-infra](https://github.com/synkube/lite-do-infra) | DOKS cluster and bootstrap Terraform (TFC) |
-| [lite-do-argo-apps](https://github.com/synkube/lite-do-argo-apps) | Argo CD app-of-apps and live values |
+| [lite-infra](https://github.com/synkube/lite-infra) | Cluster and bootstrap Terraform (TFC) |
+| [lite-argo-apps](https://github.com/synkube/lite-argo-apps) | Argo CD app-of-apps and live values |
 
 **Stack:** Argo CD • External Secrets (Infisical) • cert-manager • Traefik • Grafana Cloud • shift-left security (Cosign, Falco, Kubescape)
 
